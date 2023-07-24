@@ -69,7 +69,6 @@ Link: [Barbie Quiz](https://github.com/Gabrieluser430/barbie-quiz)
 - Conteúdo segue o tema do desafio.
 
 **Pontos Negativos:**
-
 - Responsividade quebrada para dispositivos moveis o elemento de descrição escapa da tela.
 
 
@@ -83,3 +82,15 @@ Link: [Portfolio da Barbie](https://sawrinha.github.io/portifolio-da-barbie/)
 
 **Pontos Negativos:**
 - Uso de strings sem o tratamento adequado, podendo incorporar vulnerabilidades "innerHtml - xss dom based vulnerable".
+
+
+
+
+**Ganhadores**
+
+1 - https://github.com/SamuelRosario-C/barbieCodeHelpChallange
+
+2 - https://github.com/Gabrieluser430/barbie-quiz
+
+3 - https://sawrinha.github.io/portifolio-da-barbie/
+
